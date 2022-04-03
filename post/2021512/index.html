@@ -1,0 +1,178 @@
+<html>
+  <head>
+    <meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>2021.5.12 | welcometooursantafe</title>
+<link rel="shortcut icon" href="https://fishingthesound.github.io/favicon.ico?v=1649002027707">
+<link href="https://cdn.jsdelivr.net/npm/remixicon@2.3.0/fonts/remixicon.css" rel="stylesheet">
+<link rel="stylesheet" href="https://fishingthesound.github.io/styles/main.css">
+<link rel="alternate" type="application/atom+xml" title="2021.5.12 | welcometooursantafe - Atom Feed" href="https://fishingthesound.github.io/atom.xml">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Droid+Serif:400,700">
+
+
+
+    <meta name="description" content="一起去敲了戒指
+快要一年了，我的无名指上现在即使摘下戒指也有了一圈浅浅的印记。
+如果可以的话，这次你可以永远保存好吗。
+crush&amp;mercy
+" />
+    <meta name="keywords" content="for u" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.10.0/katex.min.css">
+    <script src="https://cdn.bootcss.com/highlight.js/9.12.0/highlight.min.js"></script>
+  </head>
+  <body>
+    <div class="main">
+      <div class="main-content">
+        <div class="site-header">
+  <a href="https://fishingthesound.github.io">
+  <img class="avatar" src="https://fishingthesound.github.io/images/avatar.png?v=1649002027707" alt="">
+  </a>
+  <h1 class="site-title">
+    welcometooursantafe
+  </h1>
+  <p class="site-description">
+    here is G&X
+  </p>
+  <div class="menu-container">
+    
+      
+        <a href="/" class="menu">
+          首页
+        </a>
+      
+    
+      
+        <a href="/archives" class="menu">
+          文章
+        </a>
+      
+    
+      
+        <a href="/tags" class="menu">
+          标签
+        </a>
+      
+    
+      
+        <a href="/post/about" class="menu">
+          关于
+        </a>
+      
+    
+  </div>
+  <div class="social-container">
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+  </div>
+</div>
+
+        <div class="post-detail">
+          <article class="post">
+            <h2 class="post-title">
+              2021.5.12
+            </h2>
+            <div class="post-info">
+              <span>
+                2021-05-12
+              </span>
+              <span>
+                1 min read
+              </span>
+              
+                <a href="https://fishingthesound.github.io/tag/45pehgate/" class="post-tag">
+                  # for u
+                </a>
+              
+            </div>
+            
+              <img class="post-feature-image" src="https://fishingthesound.github.io/post-images/2021512.jpg" alt="">
+            
+            <div class="post-content-wrapper">
+              <div class="post-content">
+                <p>一起去敲了戒指</p>
+<p>快要一年了，我的无名指上现在即使摘下戒指也有了一圈浅浅的印记。<br>
+如果可以的话，这次你可以永远保存好吗。<br>
+crush&amp;mercy</p>
+
+              </div>
+              <div class="toc-container">
+                
+              </div>
+            </div>
+          </article>
+        </div>
+
+        
+          <div class="next-post">
+            <div class="next">下一篇</div>
+            <a href="https://fishingthesound.github.io/post/2021426/">
+              <h3 class="post-title">
+                2021.4.26
+              </h3>
+            </a>
+          </div>
+        
+
+        
+
+        <div class="site-footer">
+  Powered by <a href="https://github.com/getgridea/gridea" target="_blank">Gridea</a>
+  <a class="rss" href="https://fishingthesound.github.io/atom.xml" target="_blank">
+    <i class="ri-rss-line"></i> RSS
+  </a>
+</div>
+
+      </div>
+    </div>
+
+    <script>
+      hljs.initHighlightingOnLoad()
+
+      let mainNavLinks = document.querySelectorAll(".markdownIt-TOC a");
+
+      // This should probably be throttled.
+      // Especially because it triggers during smooth scrolling.
+      // https://lodash.com/docs/4.17.10#throttle
+      // You could do like...
+      // window.addEventListener("scroll", () => {
+      //    _.throttle(doThatStuff, 100);
+      // });
+      // Only not doing it here to keep this Pen dependency-free.
+
+      window.addEventListener("scroll", event => {
+        let fromTop = window.scrollY;
+
+        mainNavLinks.forEach((link, index) => {
+          let section = document.getElementById(decodeURI(link.hash).substring(1));
+          let nextSection = null
+          if (mainNavLinks[index + 1]) {
+            nextSection = document.getElementById(decodeURI(mainNavLinks[index + 1].hash).substring(1));
+          }
+          if (section.offsetTop <= fromTop) {
+            if (nextSection) {
+              if (nextSection.offsetTop > fromTop) {
+                link.classList.add("current");
+              } else {
+                link.classList.remove("current");    
+              }
+            } else {
+              link.classList.add("current");
+            }
+          } else {
+            link.classList.remove("current");
+          }
+        });
+      });
+
+    </script>
+  </body>
+</html>
