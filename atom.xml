@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fishingthesound.github.io</id>
     <title>welcometooursantafe</title>
-    <updated>2022-04-03T06:46:05.798Z</updated>
+    <updated>2022-04-03T13:37:35.634Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://fishingthesound.github.io"/>
     <link rel="self" href="https://fishingthesound.github.io/atom.xml"/>
@@ -10,6 +10,13 @@
     <logo>https://fishingthesound.github.io/images/avatar.png</logo>
     <icon>https://fishingthesound.github.io/favicon.ico</icon>
     <rights>All rights reserved 2022, welcometooursantafe</rights>
+    <entry>
+        <title type="html"><![CDATA[关于我在山上堵了一个小时18分钟]]></title>
+        <id>https://fishingthesound.github.io/post/guan-yu-wo-zai-shan-shang-du-liao-yi-ge-xiao-shi-18-fen-zhong/</id>
+        <link href="https://fishingthesound.github.io/post/guan-yu-wo-zai-shan-shang-du-liao-yi-ge-xiao-shi-18-fen-zhong/">
+        </link>
+        <updated>2022-04-03T12:24:27.000Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Welcome home Babe！]]></title>
         <id>https://fishingthesound.github.io/post/welcome-home-babe/</id>
