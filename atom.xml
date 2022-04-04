@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fishingthesound.github.io</id>
     <title>welcometooursantafe</title>
-    <updated>2022-04-03T17:04:36.587Z</updated>
+    <updated>2022-04-04T05:01:30.939Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://fishingthesound.github.io"/>
     <link rel="self" href="https://fishingthesound.github.io/atom.xml"/>
@@ -10,6 +10,13 @@
     <logo>https://fishingthesound.github.io/images/avatar.png</logo>
     <icon>https://fishingthesound.github.io/favicon.ico</icon>
     <rights>All rights reserved 2022, welcometooursantafe</rights>
+    <entry>
+        <title type="html"><![CDATA[成为波伏瓦]]></title>
+        <id>https://fishingthesound.github.io/post/cheng-wei-bo-fu-wa/</id>
+        <link href="https://fishingthesound.github.io/post/cheng-wei-bo-fu-wa/">
+        </link>
+        <updated>2022-04-04T04:21:07.000Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Welcome home babe！ -这是一篇使用指南-]]></title>
         <id>https://fishingthesound.github.io/post/welcome-home-babe-zhe-shi-yi-pian-shi-yong-zhi-nan-/</id>
@@ -25,7 +32,7 @@
         <updated>2022-04-03T14:03:28.000Z</updated>
     </entry>
     <entry>
-        <title type="html"><![CDATA[关于我在山上堵了一个小时18分钟]]></title>
+        <title type="html"><![CDATA[关于我在山上被堵了1个小时18分钟]]></title>
         <id>https://fishingthesound.github.io/post/guan-yu-wo-zai-shan-shang-du-liao-yi-ge-xiao-shi-18-fen-zhong/</id>
         <link href="https://fishingthesound.github.io/post/guan-yu-wo-zai-shan-shang-du-liao-yi-ge-xiao-shi-18-fen-zhong/">
         </link>
@@ -86,6 +93,13 @@
 ]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[六合止马岭]]></title>
+        <id>https://fishingthesound.github.io/post/liu-he-zhi-ma-ling/</id>
+        <link href="https://fishingthesound.github.io/post/liu-he-zhi-ma-ling/">
+        </link>
+        <updated>2022-02-25T04:01:55.000Z</updated>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[福鼎]]></title>
         <id>https://fishingthesound.github.io/post/fu-ding/</id>
         <link href="https://fishingthesound.github.io/post/fu-ding/">
@@ -135,19 +149,5 @@
         <link href="https://fishingthesound.github.io/post/2021512/">
         </link>
         <updated>2021-05-12T14:50:00.000Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2021.4.26]]></title>
-        <id>https://fishingthesound.github.io/post/2021426/</id>
-        <link href="https://fishingthesound.github.io/post/2021426/">
-        </link>
-        <updated>2021-04-26T14:45:28.000Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[上海]]></title>
-        <id>https://fishingthesound.github.io/post/2021418/</id>
-        <link href="https://fishingthesound.github.io/post/2021418/">
-        </link>
-        <updated>2021-04-18T14:21:38.000Z</updated>
     </entry>
 </feed>
