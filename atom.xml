@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fishingthesound.github.io</id>
     <title>welcometooursantafe</title>
-    <updated>2022-04-04T05:53:54.857Z</updated>
+    <updated>2022-04-04T12:25:51.916Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://fishingthesound.github.io"/>
     <link rel="self" href="https://fishingthesound.github.io/atom.xml"/>
@@ -10,6 +10,13 @@
     <logo>https://fishingthesound.github.io/images/avatar.png</logo>
     <icon>https://fishingthesound.github.io/favicon.ico</icon>
     <rights>All rights reserved 2022, welcometooursantafe</rights>
+    <entry>
+        <title type="html"><![CDATA[《疫情下春日大学生情侣见面指南》]]></title>
+        <id>https://fishingthesound.github.io/post/lesslessyi-qing-xia-chun-ri-da-xue-sheng-qing-lu-jian-mian-zhi-nan-greatergreater/</id>
+        <link href="https://fishingthesound.github.io/post/lesslessyi-qing-xia-chun-ri-da-xue-sheng-qing-lu-jian-mian-zhi-nan-greatergreater/">
+        </link>
+        <updated>2022-04-04T11:56:42.000Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[成为波伏瓦]]></title>
         <id>https://fishingthesound.github.io/post/cheng-wei-bo-fu-wa/</id>
@@ -112,12 +119,5 @@
         <link href="https://fishingthesound.github.io/post/chong-qing/">
         </link>
         <updated>2021-07-05T14:54:49.000Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2021.5.12]]></title>
-        <id>https://fishingthesound.github.io/post/2021512/</id>
-        <link href="https://fishingthesound.github.io/post/2021512/">
-        </link>
-        <updated>2021-05-12T14:50:00.000Z</updated>
     </entry>
 </feed>
