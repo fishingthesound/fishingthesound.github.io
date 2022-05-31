@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fishingthesound.github.io</id>
     <title>welcometooursantafe</title>
-    <updated>2022-05-17T08:28:37.896Z</updated>
+    <updated>2022-05-31T04:12:12.791Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://fishingthesound.github.io"/>
     <link rel="self" href="https://fishingthesound.github.io/atom.xml"/>
@@ -10,6 +10,13 @@
     <logo>https://fishingthesound.github.io/images/avatar.png</logo>
     <icon>https://fishingthesound.github.io/favicon.ico</icon>
     <rights>All rights reserved 2022, welcometooursantafe</rights>
+    <entry>
+        <title type="html"><![CDATA[道歉信！]]></title>
+        <id>https://fishingthesound.github.io/post/dao-qian-xin/</id>
+        <link href="https://fishingthesound.github.io/post/dao-qian-xin/">
+        </link>
+        <updated>2022-05-31T03:48:44.000Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[莫比乌斯环]]></title>
         <id>https://fishingthesound.github.io/post/mo-bi-wu-si-huan/</id>
@@ -72,12 +79,5 @@
         <link href="https://fishingthesound.github.io/post/cheng-wei-bo-fu-wa/">
         </link>
         <updated>2022-04-04T04:21:07.000Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Welcome home babe！ -这是一篇使用指南-]]></title>
-        <id>https://fishingthesound.github.io/post/welcome-home-babe-zhe-shi-yi-pian-shi-yong-zhi-nan-/</id>
-        <link href="https://fishingthesound.github.io/post/welcome-home-babe-zhe-shi-yi-pian-shi-yong-zhi-nan-/">
-        </link>
-        <updated>2022-04-03T16:52:38.000Z</updated>
     </entry>
 </feed>
